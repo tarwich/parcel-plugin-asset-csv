@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "chrisdmacrae",
+    "email": "hello@chrisdmacrae.com"
+  },
+  "dependencies": {
+    "papaparse": "^4.6.2"
+  },
+  "deprecated": false,
+  "description": "A parcel plugin for adding .csv asset support",
+  "gitHead": "64c896644119d82017a6ab736a882780fea7252d",
+  "homepage": "https://github.com/tarwich/parcel-plugin-asset-csv",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "parcel-plugin-asset-csv",
+  "version": "0.1.5"
+}
